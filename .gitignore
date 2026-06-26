@@ -1,28 +1,13 @@
-# Dependencies
-node_modules/
+# dependencies
+backend/node_modules/
 
-# Environment
+# environment variables
+backend/.env
 .env
-.env.local
 
-# Logs
-logs/
+# logs
 *.log
 
-# Build
-dist/
-build/
-
-# IDE
-.vscode/
-.idea/
-
-# OS
+# OS files
 .DS_Store
 Thumbs.db
-
-# Coverage
-coverage/
-
-# Misc
-*.tmp

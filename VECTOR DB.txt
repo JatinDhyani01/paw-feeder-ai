@@ -1,8 +1,0 @@
-from langchain_openai import langchain_openai
-from langchain_community.docment_loaders import Textloader
-from langchain.text_splitter import RecursivecharacterTextSpliteer 
-from langchain_openai import OpenAI embeddings 
-from langchain_community.vectorstores import FAISS
-from langchain_core.vectorstores import vectostoresRetriver
-from langchain.chains import RetievalQA
-import os
